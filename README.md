@@ -1,0 +1,5 @@
+- 👋 <p>Hi, I'm TechSparks</p>
+- 👀 <p>I am very interested in electronic circuits</p>
+- 🌱 <p>Now learning if homemade electronic projects include Arduino, Raspberry Pi, etc.</p>
+- 💞️ <p>Here I will store some code needed for the project</p>
+- 📫 <p>If you're interested you can find me at <a href="https://www.tech-sparks.com/">TechSparks.com</a></p>
